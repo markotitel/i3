@@ -141,4 +141,4 @@ bindsym $mod+Shift+e exec i3lock -c000000
 #App workspace assignment
 assign [class="Skype"] 3
 assign [class="Xchat"] 3
-
+assign [class="Transmission"] 4
