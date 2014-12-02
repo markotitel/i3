@@ -142,3 +142,4 @@ bindsym $mod+Shift+e exec i3lock -c000000
 assign [class="Skype"] 3
 assign [class="Xchat"] 3
 assign [class="Transmission"] 4
+client.focused # #FF0000 #
